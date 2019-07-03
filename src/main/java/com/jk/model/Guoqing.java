@@ -8,4 +8,6 @@ public class Guoqing {
 
     private Double price;
 
+    private String datetime;
+
 }

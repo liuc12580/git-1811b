@@ -8,6 +8,10 @@ public class Zhongqiu {
 
     private Date dateTime;
 
+    private String yubing;
+
+    private String price;
+
     public String getName() {
         return name;
     }

@@ -6,4 +6,6 @@ public class Guoqing {
 
     private String address;
 
+    private Double price;
+
 }
